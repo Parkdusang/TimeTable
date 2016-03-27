@@ -26,14 +26,14 @@ public class MainActivity extends AppCompatActivity {
         int day_of_week = cal.get ( Calendar.DAY_OF_WEEK );
 
         if ( day_of_week == 2 )
-            l1.setBackgroundColor(Color.rgb(255,102,051));
+            l1.setBackgroundColor(Color.rgb(204,255,153));
         else if ( day_of_week == 3 )
-            l2.setBackgroundColor(Color.rgb(255,102,051));
+            l2.setBackgroundColor(Color.rgb(204,255,153));
         else if ( day_of_week == 4 )
-            l3.setBackgroundColor(Color.rgb(255,102,051));
+            l3.setBackgroundColor(Color.rgb(204,255,153));
         else if ( day_of_week == 5 )
-            l4.setBackgroundColor(Color.rgb(255,102,051));
+            l4.setBackgroundColor(Color.rgb(204,255,153));
         else if ( day_of_week == 6 )
-            l5.setBackgroundColor(Color.rgb(255,102,051));
+            l5.setBackgroundColor(Color.rgb(204,255,153));
     }
 }
