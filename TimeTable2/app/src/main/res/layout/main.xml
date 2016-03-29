@@ -121,20 +121,20 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="에듀에코세미나"
-                    android:background="#b087ea" />
+                    android:background="#47b172" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="모바일 \n프로그래밍"
-                    android:background="#f2f266"/>
+                    android:background="#32dc77"/>
 
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="모바일 \n프로그래밍"
-                    android:background="#f2f266"/>
+                    android:background="#32dc77"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -148,19 +148,19 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="경영학원론"
-                    android:background="#70836c"/>
+                    android:background="#85d4a5"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="경영학원론"
-                    android:background="#70836c"/>
+                    android:background="#85d4a5"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="경영학원론"
-                    android:background="#70836c"/>
+                    android:background="#85d4a5"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -205,25 +205,25 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="컴퓨터 \n그래픽스"
-                    android:background="#b7d3f2"/>
+                    android:background="#49d196"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="컴퓨터 \n그래픽스"
-                    android:background="#b7d3f2"/>
+                    android:background="#49d196"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="컴퓨터 \n그래픽스"
-                    android:background="#b7d3f2"/>
+                    android:background="#49d196"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="컴퓨터 \n그래픽스"
-                    android:background="#b7d3f2"/>
+                    android:background="#49d196"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -264,13 +264,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="모바일 \n프로그래밍"
-                    android:background="#f2f266"/>
+                    android:background="#32dc77"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="모바일 \n프로그래밍"
-                    android:background="#f2f266"/>
+                    android:background="#32dc77"/>
 
 
                 <TextView
@@ -293,19 +293,19 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="소프트웨어\n산업세미나"
-                    android:background="#ea9393"/>
+                    android:background="#3ad2b4"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="소프트웨어\n산업세미나"
-                    android:background="#ea9393"/>
+                    android:background="#3ad2b4"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="소프트웨어\n산업세미나"
-                    android:background="#ea9393"/>
+                    android:background="#3ad2b4"/>
             </LinearLayout>
 
             <LinearLayout
@@ -336,14 +336,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="Speaking\nPractice\nC1"
-                    android:background="#df8ae2"/>
+                    android:background="#25b45e"/>
 
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="Speaking\nPractice\nC1"
-                    android:background="#df8ae2"/>
+                    android:background="#25b45e"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -365,13 +365,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="졸업작품"
-                    android:background="#6c85ab"/>
+                    android:background="#47b172"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="졸업작품"
-                    android:background="#6c85ab"/>
+                    android:background="#47b172"/>
             </LinearLayout>
 
             <LinearLayout
@@ -398,13 +398,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="소프트웨어 \n공학"
-                    android:background="#d8eca7"/>
+                    android:background="#6dba9e"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:text="소프트웨어 \n공학"
-                    android:background="#d8eca7"/>
+                    android:background="#6dba9e"/>
 
 
                 <TextView
